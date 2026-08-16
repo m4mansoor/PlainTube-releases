@@ -11,7 +11,7 @@ YouTube without ads, in a native app for macOS, Windows, and Android.
 
 ## Pricing
 - **Free** - try it for 15 minutes per session
-- **Pro** - $1/month or $5/year
+- **Pro** - $1/month or $9/year
 
 ## Download
 
