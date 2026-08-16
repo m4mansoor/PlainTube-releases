@@ -1,10 +1,21 @@
 ﻿# PlainTube - downloads
 
-Official download page for **PlainTube** - YouTube without ads.
+YouTube without ads, in a native app for macOS, Windows, and Android.
 
-## Latest release
+## Features
+- **No ads** - ads are blocked during playback
+- **No Google account needed (Android)** - streams through privacy-friendly Invidious servers
+- **Automatic failover** - if one server goes down, playback switches to the next
+- **Desktop integration** - media keys, Picture-in-Picture, and the Now Playing panel
+- **Small install (Android)** - a 27 MB app
 
-| Platform | Download |
+## Pricing
+- **Free** - try it for 15 minutes per session
+- **Pro** - $1/month or $5/year
+
+## Download
+
+| Platform | File |
 |---|---|
 | Android (APK) | [app-universal-release.apk](https://github.com/m4mansoor/PlainTube-releases/releases/latest/download/app-universal-release.apk) |
 | macOS (DMG) | [PlainTube-0.1.0-mac-universal.dmg](https://github.com/m4mansoor/PlainTube-releases/releases/latest/download/PlainTube-0.1.0-mac-universal.dmg) |
@@ -14,5 +25,4 @@ Official download page for **PlainTube** - YouTube without ads.
 [View all releases](https://github.com/m4mansoor/PlainTube-releases/releases)
 
 ---
-
 PlainTube is an independent client for public Invidious instances. Not affiliated with YouTube or Google.
